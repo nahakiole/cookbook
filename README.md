@@ -1,12 +1,13 @@
-# Cookbock Translator
+# Cookbook Translator
 
 This is a google chrome extension which tries to convert american units (cups, oz) into european units (g, ml)
 
 ## Installation
 
-Buy from the chrome web store: 
+Download from the chrome web store: https://chrome.google.com/webstore/detail/cookbook/agbkfchogbebmhofpgekbffcgikbhifh
 
-Or install it from this repository.
+Or build it from this repository. 
+https://developer.chrome.com/extensions/getstarted#unpacked
 
 ## Usage
 

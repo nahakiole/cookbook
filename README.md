@@ -1,5 +1,7 @@
 # Cookbook Translator
-
+ 
+`This is still in alpha. At the moment it translates all websites automatically. In future releases I will include a whitelist for websites so we won't break functionality on websites.`
+ 
 This is a google chrome extension which tries to convert american units (cups, oz) into european units (g, ml)
 
 ## Installation
